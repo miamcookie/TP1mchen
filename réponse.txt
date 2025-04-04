@@ -1,14 +1,34 @@
 1) git status affiche le ficher README.md en rouge, pour indiquer que le fichier doit etre commit
+
 2) par rapport au premier git status, les fichier sont coloré en vert, signifiant qu'ils sont dans le commit
+
 5) git log
+
 6)git diff montre les difference des versions dans le working directory et git diff --staged montre les difference dans le staging area
+
 7)git show: montre les modification faite en détaille (vert pour les ajout et rouge pour les suppresion)
     git status: montre les fichier qui sont dans la working area ou la staging area
     git diff: montre les modification faite dans la working area comparé a la version la plus récente
     git log: montre tout les différent commit
+
 9) git reset envoie le fichier qui était dans le staging area dans le working area
 
-
-
 11) j ai utiliser git log et git status pour verifier
+
 12) j ai utiliser git log pour verifier
+
+13) git clone https://github.com/PaulineLam24/TP-Git.git
+
+14) git ls-files pour recupérer liste des fichiers et le fichier dans le git est README.md
+
+15)git log pour voir la liste des modification 
+ les modification sont les suivantes:
+	-Initial commit
+
+	-Ajout dans README.md
+
+    Ajout d'une 2e ligne dans le fichier README.md.
+
+	-Correctif README.md
+    Modification sur la deuxième ligne du fichier README.md pour que celle-ci s'
+affiche comme du texte et non un titre.
