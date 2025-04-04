@@ -10,3 +10,5 @@
 
 
 
+11) j ai utiliser git log et git status pour verifier
+12) j ai utiliser git log pour verifier
